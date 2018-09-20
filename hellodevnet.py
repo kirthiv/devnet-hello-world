@@ -1,2 +1,7 @@
-print("Hello World")
-print("Hello DevNet")
+def answer():
+ print("Orange")
+ print("Orange Who ?")
+ print("Orange you glad its DevNet")
+
+print("knock knock")
+answer()
